@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fca9893-f826-42e6-a4b3-720fdae0f056" name="Changes" comment="Init" />
+    <list default="true" id="3fca9893-f826-42e6-a4b3-720fdae0f056" name="Changes" comment="Deleted K">
+      <change afterPath="$PROJECT_DIR$/FCM.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,12 +29,12 @@
     &quot;assignee&quot;: &quot;Komrad1991&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Komrad1991/DataMine.git",
-    "accountId": "71590954-b5ab-440d-967e-4202a0bf0e44"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Komrad1991/DataMine.git&quot;,
+    &quot;accountId&quot;: &quot;71590954-b5ab-440d-967e-4202a0bf0e44&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -41,11 +54,21 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Daniil/PycharmProjects/DataMine1/data",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniil\PycharmProjects\DataMine1\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniil\PycharmProjects\DataMine1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,6 +86,8 @@
       <updated>1772376829752</updated>
       <workItem from="1772376830775" duration="3567000" />
       <workItem from="1772443389205" duration="31000" />
+      <workItem from="1772443597283" duration="1674000" />
+      <workItem from="1773648715312" duration="4199000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -72,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772377077015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deleted K">
+      <option name="closed" value="true" />
+      <created>1772443690109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772443690109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Deleted K" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted K" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -92,7 +126,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/sample.ipynb</url>
-          <line>39</line>
+          <line>37</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
