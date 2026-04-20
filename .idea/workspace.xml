@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fca9893-f826-42e6-a4b3-720fdae0f056" name="Changes" comment="Done FCM and FCM with irina fisherman">
-      <change afterPath="$PROJECT_DIR$/DBScan.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FCM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k-modes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roc-curves.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataMining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataMining.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FCM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBScan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DBScan.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,12 @@
       <workItem from="1773750175197" duration="16000" />
       <workItem from="1774790349038" duration="760000" />
       <workItem from="1774791142659" duration="1432000" />
-      <workItem from="1774868148097" duration="656000" />
+      <workItem from="1774868148097" duration="4223000" />
+      <workItem from="1775071984947" duration="36000" />
+      <workItem from="1776067959017" duration="2229000" />
+      <workItem from="1776273883352" duration="99000" />
+      <workItem from="1776676049707" duration="360000" />
+      <workItem from="1776676420487" duration="1963000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -116,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773653145757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done FCM and FCM with irina fisherman">
+      <option name="closed" value="true" />
+      <created>1774868817474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774868817474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
