@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fca9893-f826-42e6-a4b3-720fdae0f056" name="Changes" comment="Done lab 3-5">
-      <change afterPath="$PROJECT_DIR$/data/lab07-data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minimizing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NN_clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataMining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataMining.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k-modes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/k-modes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roc-curves.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/roc-curves.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
